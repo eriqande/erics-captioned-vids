@@ -1,0 +1,26 @@
+5.0	10.0	The music is a little cheesy but you\ncan learn a lot from this video.
+14.0	20.0	Expect to pause the video and rewind many times to take in the narration,\nponder the comments, and answer all questions (preceded by a Q with a number).
+30.0	33.0	Q1: True or False. This animation is showing that each\nof the two "fragments" is a double-stranded segment of DNA.
+33.0	35.0	I suspect that you really would have one color or type\nof adapter on the 3' and the other one on the 5' end.  So I wonder\nwhy the sides of purple and blue are not reversed.
+35.0	36.5	Aha! Here that (possibly incorrect) symmetry is broken. Each end (either 3' or 5') now\n gets its own set of colors.
+36.5	39.0	Q2: How does the sequence of the fragment on top compare\nto the sequence of the fragment on the bottom?
+39.0	40.5	Q3: What is the purpose of the sequencing binding sites? Your answer\nshould include the words "oligonucleotide," "polymerase," "3'-hydroxyl," and "synthesize."
+40.7	42.7	The indices are the "barcodes" used to identify which individual/plate the fragment is from.
+43.0	44.5	These oligo-complementary regions let the fragment\nstick to the "lawn".
+53.0	56.0	By "iso-thermally amplified?" they mean amplified at the same temperature.\nThis differs, thermally, from a traditional PCR amplification
+56.0	60.0	Get ready! Understanding cluster\ngeneration is really where it is at!
+60.0	63.0	Here is the lawn! The oligos are\nthe blades of grass on the lawn.
+65.0	68.2	When they say "hybridization is enabled by the first of the two oligos"\nthey are referring to some magic that lets them make the oligos "sticky" or not...
+70.0	73.5	We will name this fragment the "Original Template." You can\nthink of it as a piece of DNA from the critter you are sequencing.
+73.5	76.2	NB: The Original Template is not always composed of DNA that was originally in the critter.\nIt might be a PCR copy of the critter's DNA.
+78.0	81.0	Q4: Given the direction of travel of the polymerase, is the\nOriginal Template anchored to the lawn by its 3' or its 5' end?
+85.0	88.0	Q5: How does the remaining strand relate to the Original Template?\nIs the remaining strand anchored by its 3' or 5' end?
+88.2	92.2	Q6: Choose one from the parentheses: the purple part on the remaining strand is\n(the same as || complementary to) the purple lawn oligos. 
+93.0	96.0	Q7: Choose one from each set of parentheses: the blue part of the remaining strand\nis at the (3'|5') end and is (the same as|complementary to) the blue oligos on the lawn. 
+98.0	101.0	Q8: The polymerase grows the new daughter strand from 5' to 3'.  Does that accord with\nyour previous answers?  Make sure your answers are consistent with this.
+105.0	109.0	Q9: Choose one: Every oligo, purple or blue, on the lawn is attached\nby its (5'|3') end.
+109.0	113.0	Q10: Choose one: Every blue or purple sequence dangling at the unattached end of a\nstrand is at the (5'|3') end of the strand.
+120.0	125.0	Just saying, knowing Q9 and Q10 is the key to understanding bridge amplification...
+127.0	132.0	I don't like the terminology "reverse" strands... 
+165.0 173.0 Is the growing sequence (TTAAGCGT) the sequence of the "Original Template" (as\ndefined above) or of its complement?
+240.0	250.0	Q11: Is read 2 sequenced off the same strand as read 1?
